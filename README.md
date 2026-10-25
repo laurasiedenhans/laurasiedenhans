@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**laurasiedenhans/laurasiedenhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Laura Siedenhans
 
-Here are some ideas to get you started:
+**Information Systems Student at TUM · Building projects on the side**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About me
+
+- 🎓 Studying **Information Systems** at the Technical University of Munich
+- 🛠️ In my free time I build small side projects that turn everyday problems into simple tools
+- 🌱 Currently learning iOS development
+
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,idea,docker&theme=dark" alt="Java, Python, Git, GitHub, IntelliJ IDEA, Docker" />
+</p>
+
+### Featured projects
+
+| Project | Description |
+| :--- | :--- |
+| [**routines**](https://github.com/laurasiedenhans/routines) | to-do app for recurring tasks |
+
+### Connect
+
+<p align="left">
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
